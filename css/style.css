@@ -14,7 +14,7 @@
     font-family: 'Lora', serif;
     list-style: none;
     color: var(--textColor);
-
+    transition:.3s;
 }
 ::-webkit-scrollbar {
     width: 3px;
