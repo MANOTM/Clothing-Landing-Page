@@ -43,7 +43,9 @@ section.home {
     width: 80%;
     margin: 0 auto;
 }
-
+section {
+    overflow: hidden;
+}
 section.home header {
     width: 80%;
     margin: 0 auto;
